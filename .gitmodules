@@ -1,0 +1,4 @@
+[submodule "JSQWebViewController"]
+	path = JSQWebViewController
+	url = https://github.com/jessesquires/JSQWebViewController.git
+	branch = develop
